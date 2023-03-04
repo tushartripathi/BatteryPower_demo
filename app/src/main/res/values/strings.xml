@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BP Demo</string>
+    <string name="add_money_desc">Add money to your wallet and make payment</string>
+    <string name="recommended">Recommended</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="cancel">Cancel</string>
+    <string name="recharge">Recharge</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="amount_is_empty">Amount is empty</string>
+</resources>
