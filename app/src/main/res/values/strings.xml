@@ -6,5 +6,6 @@
     <string name="cancel">Cancel</string>
     <string name="recharge">Recharge</string>
     <string name="enter_amount">Enter amount</string>
-    <string name="amount_is_empty">Amount is empty</string>
+    <string name="clock_Activity">Clock Activity</string>
+    <string name="title">Head Clock</string>
 </resources>
